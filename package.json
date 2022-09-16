@@ -5,6 +5,7 @@
   "main": "recomdation.js",
   "type": "module",
   "scripts": {
+    "start" : "node recomdation.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
