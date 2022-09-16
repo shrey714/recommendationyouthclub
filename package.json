@@ -1,0 +1,21 @@
+{
+  "name": "recomandation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "recomdation.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.1",
+    "got": "^12.4.1",
+    "mongoose": "^6.6.1",
+    "related-documents": "^1.0.7"
+  }
+}
